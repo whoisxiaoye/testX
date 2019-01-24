@@ -4,7 +4,7 @@
  Property List.plist
  David
  Created by David on 2018/10/25.
- Copyright (c) 2018年 MOON All rights reserved.
+ Copyright (c) 2018脛锚 MOON All rights reserved.
 -->
 <plist version="1.0">
  <dict>
@@ -17,7 +17,7 @@
  <key>kind</key>
  <string>software-package</string>
  <key>url</key>
- <string>http://150.138.119.124:8080/wechatman2/js/project/haoyunjia.ipa</string>
+ <string>https://github.com/whoisxiaoye/testX/blob/master/haoyunjia.ipa</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -47,7 +47,7 @@
  <key>subtitle</key>
  <string>App</string>
  <key>title</key>
- <string>好运家</string>
+ <string>潞脙脭脣录脪</string>
  </dict>
  </dict>
  </array>
